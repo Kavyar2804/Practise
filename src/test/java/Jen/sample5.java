@@ -1,6 +1,6 @@
-package hello;
+package Jen;
 
-public class Sample6 {
+public class sample5 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
